@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/8c896e070d7862ab04f5b069e4b3c52a/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/519f81f8de5dd050c204da5148b338b5/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/3f621657e64339cc9c8768e727fb0304/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/a36fb08abc6eaaefc38f42132d13c2d6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/4ec5e41e619afe8a9b24d9a5c82e8f34/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/52b04b9e131b1fb245b5779147940d20/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ef4c356e3b2a9f1c46ad13d6e6d5e03b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/e27c1858db73a81268848f807f01befa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/1ccfad58e828583db479ac9b4da04e15/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/16fad6f0845927e5d6b035bb3eba1a94/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/76b5802a4879fecaf1287fa4f94bc95e/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/3a7fe2f4d07619705fbf10ba1237c8c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/dcd9ea463944d95df927422a65ac8e9b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/90f541ea329b5e3f1f0b8c8b6850a1ba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/2ecd6e60467c726400ea775fbdbd29f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/d42bad5198362f70d3954a720be04e7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/61b5af04e817a8a28b291efd2c692568/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/101f80e20728ece3e75a547015a8f137/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/486ff53a4cb842fdcb25b797ec65ddcc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/3c3a60f84cbf19d302f45daac21ebe60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/f518e7b6e60002fccc42db3dcaeec8bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/e675faf9905f9228c02edbd511518535/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ae99e25f27ca7de022a72f3af6905beb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ebdf50c36c29e3e1b176d5d784269345/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/5f73e933141c08b344e99ac5df0f365f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ba459b30ab6c66ddba9bd93fd04dfaf7/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/0e1d0a5e2cb1069a906cb1f363709c65/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/27f4739b0776830f66dbcdace44fadd7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/eadbc1ea0afc51db9cdb9c2aa689e9f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/a1a0884095fedd8c27e34011b2b93ea8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/43b5f260aced71a872e0d59d09f28374/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ecd569251c226c18b4adb9b86eb216f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/0c0382846366cbce22b542fb5ee385e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/7d9711a5df0bb24a97bb685061d71a8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/be30e59d3816e828153295e836955275/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/9e94ed7335ba566599009088a6571243/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/720e00a3bbf4fc2b9c385ea2d0405428/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/8c896e070d7862ab04f5b069e4b3c52a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/8c896e070d7862ab04f5b069e4b3c52a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/76b5802a4879fecaf1287fa4f94bc95e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/76b5802a4879fecaf1287fa4f94bc95e/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/5f73e933141c08b344e99ac5df0f365f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/5f73e933141c08b344e99ac5df0f365f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ba459b30ab6c66ddba9bd93fd04dfaf7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ba459b30ab6c66ddba9bd93fd04dfaf7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/5f73e933141c08b344e99ac5df0f365f/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.abcproj.MainActivity
+ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/8c896e070d7862ab04f5b069e4b3c52a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/8c896e070d7862ab04f5b069e4b3c52a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/519f81f8de5dd050c204da5148b338b5/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/519f81f8de5dd050c204da5148b338b5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/3f621657e64339cc9c8768e727fb0304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/3f621657e64339cc9c8768e727fb0304/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/a36fb08abc6eaaefc38f42132d13c2d6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/a36fb08abc6eaaefc38f42132d13c2d6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/4ec5e41e619afe8a9b24d9a5c82e8f34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/4ec5e41e619afe8a9b24d9a5c82e8f34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/52b04b9e131b1fb245b5779147940d20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/52b04b9e131b1fb245b5779147940d20/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ef4c356e3b2a9f1c46ad13d6e6d5e03b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ef4c356e3b2a9f1c46ad13d6e6d5e03b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/e27c1858db73a81268848f807f01befa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/e27c1858db73a81268848f807f01befa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/1ccfad58e828583db479ac9b4da04e15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/1ccfad58e828583db479ac9b4da04e15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/16fad6f0845927e5d6b035bb3eba1a94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/16fad6f0845927e5d6b035bb3eba1a94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/76b5802a4879fecaf1287fa4f94bc95e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/76b5802a4879fecaf1287fa4f94bc95e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/3a7fe2f4d07619705fbf10ba1237c8c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/3a7fe2f4d07619705fbf10ba1237c8c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/dcd9ea463944d95df927422a65ac8e9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/dcd9ea463944d95df927422a65ac8e9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/90f541ea329b5e3f1f0b8c8b6850a1ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/90f541ea329b5e3f1f0b8c8b6850a1ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/2ecd6e60467c726400ea775fbdbd29f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/2ecd6e60467c726400ea775fbdbd29f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/d42bad5198362f70d3954a720be04e7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/d42bad5198362f70d3954a720be04e7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/61b5af04e817a8a28b291efd2c692568/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/61b5af04e817a8a28b291efd2c692568/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/101f80e20728ece3e75a547015a8f137/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/101f80e20728ece3e75a547015a8f137/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/486ff53a4cb842fdcb25b797ec65ddcc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/486ff53a4cb842fdcb25b797ec65ddcc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/3c3a60f84cbf19d302f45daac21ebe60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/3c3a60f84cbf19d302f45daac21ebe60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/f518e7b6e60002fccc42db3dcaeec8bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/f518e7b6e60002fccc42db3dcaeec8bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/e675faf9905f9228c02edbd511518535/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/e675faf9905f9228c02edbd511518535/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ae99e25f27ca7de022a72f3af6905beb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ae99e25f27ca7de022a72f3af6905beb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ebdf50c36c29e3e1b176d5d784269345/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ebdf50c36c29e3e1b176d5d784269345/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/5f73e933141c08b344e99ac5df0f365f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/5f73e933141c08b344e99ac5df0f365f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ba459b30ab6c66ddba9bd93fd04dfaf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ba459b30ab6c66ddba9bd93fd04dfaf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/0e1d0a5e2cb1069a906cb1f363709c65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/0e1d0a5e2cb1069a906cb1f363709c65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/27f4739b0776830f66dbcdace44fadd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/27f4739b0776830f66dbcdace44fadd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/eadbc1ea0afc51db9cdb9c2aa689e9f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/eadbc1ea0afc51db9cdb9c2aa689e9f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/a1a0884095fedd8c27e34011b2b93ea8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/a1a0884095fedd8c27e34011b2b93ea8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/43b5f260aced71a872e0d59d09f28374/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/43b5f260aced71a872e0d59d09f28374/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ecd569251c226c18b4adb9b86eb216f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/ecd569251c226c18b4adb9b86eb216f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/0c0382846366cbce22b542fb5ee385e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/0c0382846366cbce22b542fb5ee385e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/7d9711a5df0bb24a97bb685061d71a8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/7d9711a5df0bb24a97bb685061d71a8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/be30e59d3816e828153295e836955275/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/be30e59d3816e828153295e836955275/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/9e94ed7335ba566599009088a6571243/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/9e94ed7335ba566599009088a6571243/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/720e00a3bbf4fc2b9c385ea2d0405428/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sabihacetinpena/.gradle/caches/transforms-2/files-2.1/720e00a3bbf4fc2b9c385ea2d0405428/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/sabihacetinpena/react/ABCProj/android/app/src/debug/AndroidManifest.xml:5:22-75

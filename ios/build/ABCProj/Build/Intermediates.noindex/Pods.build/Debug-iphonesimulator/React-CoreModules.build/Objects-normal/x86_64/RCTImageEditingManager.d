@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/sabihacetinpena/react/ABCProj/node_modules/react-native/React/CoreModules/RCTImageEditingManager.m \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Target\ Support\ Files/React-CoreModules/React-CoreModules-prefix.pch \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTImageEditingManager.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTImageLoader.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTResizeMode.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestHandler.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTURLRequestDelegate.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTImageDataDecoder.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTImageURLLoader.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTImageCache.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTImageLoaderProtocol.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTImageStoreManager.h \
+  /Users/sabihacetinpena/react/ABCProj/ios/Pods/Headers/Public/React-Core/React/RCTImageUtils.h
